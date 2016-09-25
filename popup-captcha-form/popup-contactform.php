@@ -12,7 +12,7 @@ $formproc->EnableCaptcha($captcha);
 
 //1.Add your email address here.
 //You can add more than one receipients.
-$formproc->AddRecipient('you@yourwebsite.com'); //<<---Put your email address here
+$formproc->AddRecipient('myketapang@gmail.com'); //<<---Put your email address here
 
 //2. For better security. Get a random string from this link: http://tinyurl.com/randstr
 // and put it here
